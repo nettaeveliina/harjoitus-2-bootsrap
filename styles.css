@@ -1,0 +1,28 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.alert-danger {
+    background: rgb(247, 146, 146);
+    padding: 2%;
+    font-size: 30px;
+}
+
+.alert-success {
+    background: rgb(158, 253, 182);
+    padding: 2%;
+    font-size: 30px;
+}
+
+.alert {
+    display: none;
+}
+
+.action {
+    size: 50%;
+}
